@@ -26,7 +26,7 @@ public class Principal {
         System.out.println("Idade: " + carro2.getIdade());
         String nome = "Kombi";
         String marca = "Chevrolette";
-        String modelo = "Grande";
+        String modelo = "Grande.";
         int idade = 10;
         Carro carro3 = new Carro(nome,marca,modelo,idade);
         System.out.println("Nome: " + carro3.getNome());
